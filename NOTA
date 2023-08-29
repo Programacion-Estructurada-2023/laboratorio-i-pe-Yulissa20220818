@@ -1,0 +1,8 @@
+Nomenclatura de variables correcta.
+Espacios de impresiones estan correctos pero debe utilizar \n ya que al colocar lineas vacias Console.WriteLine(); instanciamos y no utilizamos esa linea.
+Codigo compilo, pero no se ejecuto por error linea 26 seteo de fecha malo  year,month,day,hour,minute,second.. Se tenia mal ingresada esa fecha.
+En consola salia el error de sintaxis, nada mas era de cambiarlo, ejecutar siempre el codigo.
+
+CODIGO SIMILAR AL DE JORGE HUMBERTO LARA
+
+NOTA 7.0
